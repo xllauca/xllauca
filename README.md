@@ -31,28 +31,28 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tbody>
 <tr>
 <th>🐞 Penetration Testing</td>
-<th>🛠️ Hacking Tools</td>
+<!--<th>🛠️ Hacking Tools</td> -->
 <th>👨🏻‍💻 Programming Language</td>
 <th>🌐 Web Development</td>
 </tr>
 
 <tr>
 <td>✅ Web Application</td>
-<td>✅ Burp Suite</td>
+<!-- <td>✅ Burp Suite</td> -->
 <td>✅ Python</td>
 <td>✅ HTML, CSS and Javascript</td>
 </tr>
 
 <tr>
 <td>✅ Reversing APK</td>
-<td>✅ Nmap</td>
+<!-- <td>✅ Nmap</td> -->
 <td>✅ Golang</td>
 <td>✅ PHP</td>
 </tr>
 
 <tr>
 <td>✅ Linux/Windows</td>
-<td>✅ Nessus</td>
+<!-- <td>✅ Nessus</td> -->
 <td>✅ C# and Powershell</td>
 <td>✅ Vue.js</td>
 </tr>
