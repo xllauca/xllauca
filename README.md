@@ -92,7 +92,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xllauca&layout=compact&theme=dark" height="150"/>
 </a>
 </div>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 <!-- Links -->
