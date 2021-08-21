@@ -19,8 +19,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/developer.gif" width="100px">
-<h2><img src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/hi.gif" width="25px"> Hi there! I'm <a href="https://www.linkedin.com/in/jjavierolmedo/" target="_blank">Xavier Llauca</a></h2>
+<img src="https://github.com/xllauca/xllauca/blob/master/img/hack.gif" width="100px">
+<h2><img src="https://github.com/xllauca/xllauca/blob/master/img/hi.gif" width="25px"> Hi there! I'm <a href="https://www.linkedin.com/in/xllauca/" target="_blank">Xavier Llauca</a></h2>
 <!--
 <h3>I am a Cybersecurity enthusiast, author of <a href="https://hackpuntes.com" target="_blank">Hackpuntes</a> blog<h3>
 -->
