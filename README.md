@@ -35,14 +35,14 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>✅ Reversing APK</td>
 <!-- <td>✅ Nmap</td> -->
-<td>✅ Golang</td>
+<td>✅ Shell Script</td>
 <td>✅ PHP</td>
 </tr>
 
 <tr>
 <td>✅ Linux/Windows</td>
 <!-- <td>✅ Nessus</td> -->
-<td>✅ C# and Powershell</td>
+<td>✅ Powershell</td>
 <td>✅ Django</td>
 </tr>
 
