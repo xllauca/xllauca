@@ -114,18 +114,18 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 <!--<a href="https://hackpuntes.com" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/wordpress.svg"></a>&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://www.facebook.com/hackpuntes" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/facebook.svg"></a>&nbsp;&nbsp;&nbsp; -->
-<a href="https://twitter.com/xllauca" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/twitter.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/xllauca" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xllauca" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/github.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCNlD-khNSTTphabjMaz0Mhg" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/youtube.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://xllauca.medium.com/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/medium.svg"></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackthebox.eu/home/users/profile/287387" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/htb.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/xllauca" target="_blank"><img height="25" src="https://github.com/xllauca/xllauca/blob/master/img/twitter.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/xllauca" target="_blank"><img height="25" src="https://github.com/xllauca/xllauca/blob/master/img/linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/xllauca" target="_blank"><img height="25" src="https://github.com/xllauca/xllauca/blob/master/img/github.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCNlD-khNSTTphabjMaz0Mhg" target="_blank"><img height="25" src="https://github.com/xllauca/xllauca/blob/master/img/youtube.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://xllauca.medium.com/" target="_blank"><img height="25" src="https://github.com/xllauca/xllauca/blob/master/img/medium.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackthebox.eu/home/users/profile/287387" target="_blank"><img height="25" src="https://github.com/xllauca/xllauca/blob/master/img/htb.png"></a>&nbsp;&nbsp;&nbsp;
 <!-- <a href="https://www.exploit-db.com/?author=9580" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/spider.svg"></a>&nbsp;&nbsp;&nbsp; -->
 <!-- <a href="https://0day.today/author/33736" target="_blank"><img height="25" src="https://raw.githubusercontent.com/JavierOlmedo/JavierOlmedo/main/img/worm.svg"></a> -->
 </div>
 
 <!-- ❤️ -->
-Made with ❤️ in Spain
+Made with ❤️ in Ecuador
 </div>
 
 
