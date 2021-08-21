@@ -43,7 +43,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <td>✅ Linux/Windows</td>
 <!-- <td>✅ Nessus</td> -->
 <td>✅ C# and Powershell</td>
-<td>✅ Vue.js</td>
+<td>✅ Django</td>
 </tr>
 
 </tbody>
@@ -85,11 +85,11 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <!-- GitHub Stats -->
 <div style="width: 100%;">
 <a href="https://hackpuntes.com" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JavierOlmedo&show_icons=true&include_all_commits=true&theme=chartreuse-dark" height="150" alt="Javier Olmedo's github stats"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xllauca&show_icons=true&include_all_commits=true&theme=chartreuse-dark" height="150" alt="Xavier Llauca's github stats"  />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierOlmedo&layout=compact&theme=dark" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xllauca&layout=compact&theme=dark" height="150"/>
 </a>
 </div>
 
