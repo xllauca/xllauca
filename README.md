@@ -35,7 +35,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>✅ Reversing APK</td>
 <!-- <td>✅ Nmap</td> -->
-<td>✅ Shell Script and Go</td>
+<td>✅ Shell and Go</td>
 <td>✅ PHP</td>
 </tr>
 
