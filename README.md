@@ -28,7 +28,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>✅ Web Application</td>
 <!-- <td>✅ Burp Suite</td> -->
-<td><a><img height="22" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>&nbsp;</td>
+<td><a><img height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></a>&nbsp;</td>
 
 <td>✅ HTML, CSS and Javascript</td>
 </tr>
