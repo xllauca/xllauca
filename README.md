@@ -15,7 +15,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <!-- About me -->
 <!-- Languages-->
 <div style="width: 100%;">
-<tr style="width: 100px;height: 50px;text-align: center;vertical-align: middle;">
 <table>
 <tbody>
 <tr>
@@ -28,8 +27,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>✅ Web Application</td>
 <!-- <td>✅ Burp Suite</td> -->
-<td><img height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td>
-
+<td>✅ Python</td>
+<!-- <td><img height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td>
 <td>✅ HTML, CSS and Javascript</td>
 </tr>
 
