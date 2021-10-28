@@ -6,18 +6,6 @@
 ###########################################################
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
-td 
-{
-    height: 50px; 
-    width: 50px;
-}
-
-#cssTable td 
-{
-    text-align: center; 
-    vertical-align: middle;
-}
-
 <div align="center">
 <img src="https://github.com/xllauca/xllauca/blob/master/img/hack.gif" width="100px">
 <h2><img src="https://github.com/xllauca/xllauca/blob/master/img/hi.gif" width="25px"> Hi there! I'm <a href="https://www.linkedin.com/in/xllauca/" target="_blank">Xavier Llauca</a></h2>
@@ -27,6 +15,7 @@ td
 <!-- About me -->
 <!-- Languages-->
 <div style="width: 100%;">
+<tr style="width: 100px;height: 50px;text-align: center;vertical-align: middle;">
 <table>
 <tbody>
 <tr>
