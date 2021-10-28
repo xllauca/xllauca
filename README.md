@@ -6,6 +6,17 @@
 ###########################################################
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
+td 
+{
+    height: 50px; 
+    width: 50px;
+}
+
+#cssTable td 
+{
+    text-align: center; 
+    vertical-align: middle;
+}
 
 <div align="center">
 <img src="https://github.com/xllauca/xllauca/blob/master/img/hack.gif" width="100px">
