@@ -28,7 +28,8 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>✅ Web Application</td>
 <!-- <td>✅ Burp Suite</td> -->
-<td>✅ Python</td>
+<td><a href="https://www.youtube.com/channel/UCNlD-khNSTTphabjMaz0Mhg" target="_blank"><img height="25" src="https://github.com/xllauca/xllauca/blob/master/img/youtube.svg"></a>&nbsp;&nbsp;&nbsp;</td>
+
 <td>✅ HTML, CSS and Javascript</td>
 </tr>
 
@@ -115,9 +116,5 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <!-- ❤️ -->
 Made with ❤️ in Ecuador
 </div>
-
-### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
