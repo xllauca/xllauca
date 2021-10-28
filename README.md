@@ -28,9 +28,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>✅ Web Application</td>
 <!-- <td>✅ Burp Suite</td> -->
-<td>
-### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;</td>
+<td>✅ Python</td>
 <td>✅ HTML, CSS and Javascript</td>
 </tr>
 
