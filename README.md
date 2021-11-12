@@ -34,9 +34,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 <tr>
 <td>Vulnerability assessment</td>
-<td>Nmap</td> 
-<td>Shell and Go</td>
-<td>PHP</td>
+<td>Virtualization</td> 
+<td>Kubernetes</td>
+<td>JavaScript</td>
 </tr>
 
 <tr>
