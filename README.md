@@ -18,7 +18,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <table>
 <tbody>
 <tr>
-<th>🐞 Pentesting</td>
+<th>🐞 Cybersecurity</td>
 <th>🛠️ Sysadmin</td>
 <th>👨🏻‍💻 Programming</td>
 <th>🌐 Devops</td>
@@ -26,23 +26,23 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </tr>
 
 <tr>
-<td>✅ Web Application</td>
-<!-- <td>✅ Burp Suite</td> -->
+<td>✅ Pentesting</td>
+<td>✅ Burp Suite</td>
 <td>✅ Python</td>
 <!-- <td><img height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td> -->
 <td>✅ HTML, CSS and Javascript</td>
 </tr>
 
 <tr>
-<td>✅ Reversing APK</td>
-<!-- <td>✅ Nmap</td> -->
+<td>✅ Vulnerability assessment</td>
+<td>✅ Nmap</td> 
 <td>✅ Shell and Go</td>
 <td>✅ PHP</td>
 </tr>
 
 <tr>
 <td>✅ Linux/Windows</td>
-<!-- <td>✅ Nessus</td> -->
+<td>✅ Nessus</td> 
 <td>✅ C and Powershell</td>
 <td>✅ Django</td>
 </tr>
@@ -51,7 +51,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </table>
 </div>
 
-<!-- 
+
 <div style="float: left; width: 25%; margin: 0 auto; text-align: left">
 <h3>🐞 Penetration Testing</h3>
 <p>✅ Web Application<p>
@@ -81,7 +81,6 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <p>✅ Javascript<p>
 <p>✅ Vue.js<p>
 </div>
--->
 
 <!-- GitHub Stats -->
 <div style="width: 100%;">
