@@ -26,25 +26,32 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </tr>
 
 <tr>
-<td>✅ Pentesting</td>
-<td>✅ Burp Suite</td>
-<td>✅ Python</td>
+<td>Pentesting</td>
+<td>Burp Suite</td>
+<td>Python</td>
 <!-- <td><img height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td> -->
-<td>✅ HTML, CSS and Javascript</td>
+<td>HTML, CSS and Javascript</td>
 </tr>
 
 <tr>
-<td>✅ Vulnerability assessment</td>
-<td>✅ Nmap</td> 
-<td>✅ Shell and Go</td>
-<td>✅ PHP</td>
+<td>Vulnerability assessment</td>
+<td>Nmap</td> 
+<td>Shell and Go</td>
+<td>PHP</td>
 </tr>
 
 <tr>
-<td>✅ Linux/Windows</td>
-<td>✅ Nessus</td> 
-<td>✅ C and Powershell</td>
-<td>✅ Django</td>
+<td>Linux/Windows</td>
+<td>Nessus</td> 
+<td>C and Powershell</td>
+<td>Django</td>
+</tr>
+
+<tr>
+<td>Linux/Windows</td>
+<td>Nessus</td> 
+<td>C and Powershell</td>
+<td>Django</td>
 </tr>
 
 </tbody>
