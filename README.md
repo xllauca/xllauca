@@ -18,9 +18,10 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <table>
 <tbody>
 <tr>
-<th>🐞 Ethical Hacker</td>
-<!--<th>🛠️ Hacking Tools</td> -->
-<th>👨🏻‍💻 Programming Language</td>
+<th>🐞 Pentesting</td>
+<th>🛠️ Sysadmin</td>
+<th>👨🏻‍💻 Programming</td>
+<th>🌐 Devops</td>
 <th>🌐 Web Development</td>
 </tr>
 
