@@ -40,10 +40,10 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </tr>
 
 <tr>
-<td>Linux/Windows</td>
-<td>Nessus</td> 
-<td>C and Powershell</td>
-<td>Django</td>
+<td>Burp Suite</td>
+<td>Nginx</td> 
+<td>Ansible</td>
+<td>Shell Scripting</td>
 </tr>
 
 <tr>
