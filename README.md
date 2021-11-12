@@ -42,16 +42,16 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>Forensics</td>
 <td>ELK</td> 
+<td>Bash/Powershell</td>
 <td>Ansible</td>
-<td>Shell Scripting</td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td>OSINT</td>
-<td>Nessus</td> 
+<td></td> 
 <td>C and Powershell</td>
-<td>Django</td>
-</tr>
+<td>Terraform</td>
+</tr> -->
 
 </tbody>
 </table>
