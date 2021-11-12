@@ -25,7 +25,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </tr>
 
 <tr>
-<td>Pentesting</td>
+<td>Penetration Testing</td>
 <td>Linux/Windows</td>
 <td>Python</td>
 <!-- <td><img height="20" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></td>  HTML, CSS and Javascript -->
@@ -33,21 +33,21 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </tr>
 
 <tr>
-<td>Vulnerability assessment</td>
+<td>OSINT</td>
 <td>Virtualization</td> 
 <td>Kubernetes</td>
 <td>JavaScript</td>
 </tr>
 
 <tr>
-<td>Burp Suite</td>
+<td>Forensics</td>
 <td>Nginx</td> 
 <td>Ansible</td>
 <td>Shell Scripting</td>
 </tr>
 
 <tr>
-<td>Linux/Windows</td>
+<td>Incident Response</td>
 <td>Nessus</td> 
 <td>C and Powershell</td>
 <td>Django</td>
