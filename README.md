@@ -46,12 +46,12 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <td>Ansible</td>
 </tr>
 
-<!-- <tr>
-<td>OSINT</td>
-<td></td> 
-<td>C and Powershell</td>
-<td>Terraform</td>
-</tr> -->
+<tr>
+<td>Vulnerability Management</td>
+<td>Network</td> 
+<td>LateX</td>
+<td>Git/GitHub</td>
+</tr>
 
 </tbody>
 </table>
