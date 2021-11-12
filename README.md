@@ -33,21 +33,21 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </tr>
 
 <tr>
-<td>OSINT</td>
+<td>Incident Response</td>
 <td>Virtualization</td> 
-<td>Kubernetes</td>
 <td>JavaScript</td>
+<td>Kubernetes</td>
 </tr>
 
 <tr>
 <td>Forensics</td>
-<td>Nginx</td> 
+<td>ELK</td> 
 <td>Ansible</td>
 <td>Shell Scripting</td>
 </tr>
 
 <tr>
-<td>Incident Response</td>
+<td>OSINT</td>
 <td>Nessus</td> 
 <td>C and Powershell</td>
 <td>Django</td>
