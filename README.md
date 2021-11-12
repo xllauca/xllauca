@@ -41,7 +41,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 <tr>
 <td>Forensics</td>
-<td>ELK</td> 
+<td>ELK Stack</td> 
 <td>Bash/Powershell</td>
 <td>Ansible</td>
 </tr>
