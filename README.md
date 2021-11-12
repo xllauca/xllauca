@@ -51,7 +51,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 </table>
 </div>
 
-
+<!--
 <div style="float: left; width: 25%; margin: 0 auto; text-align: left">
 <h3>🐞 Penetration Testing</h3>
 <p>✅ Web Application<p>
@@ -81,7 +81,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <p>✅ Javascript<p>
 <p>✅ Vue.js<p>
 </div>
-
+-->
 <!-- GitHub Stats -->
 <div style="width: 100%;">
 <a href="https://hackpuntes.com" target="_blank">
