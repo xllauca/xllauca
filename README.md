@@ -43,7 +43,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <td>Forensics</td>
 <td>ELK Stack</td> 
 <td>Bash/Powershell</td>
-<td>Ansible</td>
+<td>Terraform</td>
 </tr>
 
 <tr>
