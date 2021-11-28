@@ -21,7 +21,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <th>🐞 Cybersecurity</td>
 <th>🛠️ Sysadmin</td>
 <th>👨🏻‍💻 Programming</td>
-<th>🌐 Devops</td>
+<th>🌐 DevOps</td>
 </tr>
 
 <tr>
