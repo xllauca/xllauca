@@ -49,7 +49,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <tr>
 <td>Vulnerability Management</td>
 <td>Network</td> 
-<td>LateX</td>
+<td>GO</td>
 <td>Git/GitHub</td>
 </tr>
 
