@@ -23,7 +23,7 @@
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/xllauca)
 
-<p align="left">
+<p align="center">
   <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="125" height="125">
  <img src="https://images.credly.com/size/680x680/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png" width="125" height="125">
  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125">
