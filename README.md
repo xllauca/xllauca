@@ -19,13 +19,13 @@
 <a href="https://www.twitter.com/xllauca"><img src="https://img.shields.io/badge/-@xllauca-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-## **Techology Stack and Experience ** 💻
+## **Techology Stack and Experience** 💻
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,python,ansible,linux,bash,jenkins,latex"/>
 </p>
 
-##  **My Certifications **🏅
+##  **My Certifications**🏅
 
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/xllauca)
 
