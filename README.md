@@ -11,7 +11,7 @@
 |:-|:-|:-|
 |[AWS Community Day Colombia 2023](https://awscommunitydaycolombia.splashthat.com/)|12/08/2023|Seguridad en AWS EKS: Estrategias de Protección y Tácticas de Defensa para un Entorno Resiliente.|
 |[KCD Guatemala 2023](https://community.cncf.io/events/details/cncf-kcd-guatemala-presents-kcd-guatemala-profesionales-2023/)|19/08/2023|KubeArmor: Aplicando Políticas de seguridad en con ejemplos prácticos en K8S|
-|[KCD El Salvador](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/) **Por Confirmar**|19-20/09/2023|Explorando las Rutas de Ataque en Kubernetes con OWASP Top 10 y MITRE ATT&CK |
+|[KCD El Salvador 2023](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador-2023/)|19-20/09/2023|Explorando las Rutas de Ataque en Kubernetes con OWASP Top 10 y MITRE ATT&CK |
 
 ## **Connect with Me On Social Media** 🤝🏻
 <p align="center">
