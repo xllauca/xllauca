@@ -39,4 +39,7 @@
 
 ## **Profile Views** 📈
 
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=xllauca" alt="Xavier Llauca" /> 
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=xllauca" alt="Xavier Llauca"> 
+</h2>
+<h3 align="center">Made with ❤️ Ecuador </h3>
