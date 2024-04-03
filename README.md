@@ -19,18 +19,17 @@
 <a href="https://linkedin.com/in/xllauca"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.twitter.com/xllauca"><img src="https://img.shields.io/badge/-Twitter-1769FF?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://es.stackoverflow.com/users/293654/xavier-llauca"><img src="https://img.shields.io/badge/-STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="https://xavierllauca.com/"><img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://xavierllauca.com/blogs/"><img src="https://img.shields.io/badge/WEB SITE-12100E?style=for-the-badge&logoColor=white"/></a>
 
 
 
 ## **Techology Stack and Experience** 💻
-<center>
+<p align="center">
 
-| Cloud / Devops / Sysadmin / Programming                                                                                                                           |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,prometheus,terraform,kubernetes,redhat,github,git,grafana" onclick="return false;"></p> |  | 
-| <p align="center"><img src="https://skillicons.dev/icons?i=python,docker,ansible,linux,elasticsearch,bash,gitlab,jenkins,latex" onclick="return false;"></p>      |
-</center>
+<h4> Cloud / Devops / Sysadmin / Programming </h4>                                                                                                                 
+ <p align="center"><img src="https://skillicons.dev/icons?i=aws,gcp,prometheus,terraform,kubernetes,redhat,github,git,grafana" onclick="return false;"></p> 
+ <p align="center"><img src="https://skillicons.dev/icons?i=python,docker,ansible,linux,elasticsearch,bash,gitlab,jenkins,latex" onclick="return false;"></p>    
+</p>
 
 [//]: # ( <p align="center"><img src="https://skillicons.dev/icons?i=aws,git,kubernetes,docker,python,ansible,linux,bash,jenkins,latex" onclick="return false;"></p>)
 
